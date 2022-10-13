@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@800&family=Roboto:wght@100&family=Tapestry&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Tapestry', cursive;
+    margin: 0;
+
+    background-color: #fff;
+
+}
+header{
+
+    background-image: url('car-bg.jpg');
+    display: flex;
+    color: white;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center center ;
+}
+
+/* flex-direction: column; */
+/*
+
+
+.container{
+    max-width: 1000px;
+    max-width: 100%;
+
+    padding: 1.5rem;
+    background-color: black;
+    
+}
+.content{
+    margin: auto;
+    font-size: 1.5rem;
+}
+.content h1{
+    color:  #2cc7f7 ;
+}
+nav{
+display: flex;
+justify-content: space-between;
+padding: 3rem;
+
+}
+nav ul{
+display: flex;
+list-style-type: none;
+padding-left: 3px;
+}
+nav .logo{
+
+font-size: 2.5rem;
+
+
+}
+
+nav li a{
+    color: white;
+padding: 1rem 2rem;
+    text-decoration: none;
+     
+
+}
+.highlight{
+    background-color: #2cc7f7;
+    color: white;
+    padding: 1rem;
+    text-decoration: none;
+
+
+}
+.selected{
+    font-weight: bold;
+}
+.content{
+    margin: auto;
+    /* margin: 509px 200px; */
+    /* margin: auto 280px; */
+/* }
+footer{
+    
+    background-color: black;
+    padding: 2rem;
+    color: white;
+
+}
+footer ul{
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    align-items: center;
+    justify-content: space-between;
+    
+
+}
+footer strong{
+    color: #2cc7f7;
+}
+footer p{
+    margin:0;
+
+
+}
+@media screen and(max-width:814px) {
+    nav ul{
+flex-direction: column;
+    }
+    nav li:not(:first-child){
+        margin: 0.5rem 0;
+    }
+    nav .highlight{
+        display: none;
+    }
+} */
